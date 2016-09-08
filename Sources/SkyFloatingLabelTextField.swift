@@ -9,6 +9,7 @@
 import UIKit
 
 /**
+
   A beautiful and flexible textfield implementation with support for title label, error message and placeholder.
  */
 @IBDesignable
